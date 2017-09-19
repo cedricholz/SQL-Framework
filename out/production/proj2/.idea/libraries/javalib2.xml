@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="javalib2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../bry/javalib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../bry/javalib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../bry/javalib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../bry/javalib" recursive="false" type="SOURCES" />
+  </library>
+</component>
